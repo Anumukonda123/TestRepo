@@ -5,3 +5,9 @@ This is line 2 for commit 2.
 this is the line added from remote repo
 
 This is the Second line added from Remote for Fetch Command. 
+
+Git Restore After staged
+
+One more staged.
+
+Checking stash
